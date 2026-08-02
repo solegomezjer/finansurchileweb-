@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://finansurchile.cl/sitemap.xml
